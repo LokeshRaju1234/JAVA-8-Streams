@@ -10,8 +10,8 @@ public class mapToLong {
 
     public static void main(String [] args)
     {
-        //helps to work with primitive "int" data types
-        //to convert into int data types
+        //helps to work with primitive "long" data types
+        //to convert into long data types
 
         List<String> numbers = Arrays.asList("10000000000","200000000000","1000000000010","40000","5");
 
