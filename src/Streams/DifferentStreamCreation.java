@@ -1,3 +1,5 @@
+package Streams;
+
 import java.util.*;
 import java.util.stream.Stream;
 
@@ -25,7 +27,5 @@ public class DifferentStreamCreation
         //we need to give the starting value
         Stream<Integer> streamFromIterate =
                 Stream.iterate(1000,(Integer n) -> n + 5000).limit(5);
-
-
     }
 }

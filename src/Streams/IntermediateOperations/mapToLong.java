@@ -1,8 +1,7 @@
-package IntermediateOperations;
+package Streams.IntermediateOperations;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.IntStream;
 import java.util.stream.LongStream;
 
 public class mapToLong {

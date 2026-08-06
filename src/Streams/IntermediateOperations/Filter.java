@@ -1,8 +1,8 @@
-package IntermediateOperations;
+package Streams.IntermediateOperations;
 
-import javax.print.DocFlavor;
-import java.util.*;
-import java.util.stream.*;
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class Filter
 {

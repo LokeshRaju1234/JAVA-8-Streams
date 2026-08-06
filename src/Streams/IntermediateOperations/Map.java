@@ -1,4 +1,4 @@
-package IntermediateOperations;
+package Streams.IntermediateOperations;
 
 import java.util.List;
 import java.util.stream.Collectors;

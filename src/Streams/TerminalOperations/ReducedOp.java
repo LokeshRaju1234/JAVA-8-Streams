@@ -1,4 +1,4 @@
-package TerminalOperations;
+package Streams.TerminalOperations;
 
 import java.util.Arrays;
 import java.util.List;
