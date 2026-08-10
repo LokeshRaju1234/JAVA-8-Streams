@@ -1,4 +1,4 @@
-package MULTITHREADING.part1;
+package MULTITHREADING;
 //it helps to make sure that only 1 thread goes inside the particular section of code
 //(synchronized)
 public class MonitorLocks

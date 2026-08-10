@@ -1,4 +1,4 @@
-package MULTITHREADING.part1;
+package MULTITHREADING;
 
 public class thread extends  Thread
 {
