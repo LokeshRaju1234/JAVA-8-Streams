@@ -58,5 +58,7 @@ public class FT {
 
         System.out.println(futobj.isDone()); //Yes
         System.out.println(futobj.isCancelled());//No it completed naturally
+
+        executor.shutdown();
     }
 }
